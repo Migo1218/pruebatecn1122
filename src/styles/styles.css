@@ -1,0 +1,20 @@
+.div{
+    color:red; 
+   font-size:20px;
+   font-family:Courier;
+   border:2px;
+   padding: 5px;
+   margin: 5px;
+   border-color:blue;
+   border-style:solid;
+   
+   width:50%; 
+   height:400px;
+}
+
+.listar{
+    position: absolute;
+    top: 20px;
+    left: 700px;
+    height: 400px;
+}
